@@ -1,6 +1,7 @@
 # 蔡徐坤大战吴亦凡小游戏-客户端
 
-东北大学软件学院《Linux操作系统》大作业——Linux C编程实现网络游戏服务器    、
+东北大学软件学院《Linux操作系统》大作业——Linux C编程实现网络游戏服务器   
+服务端项目地址：https://github.com/qiurungeng/PK-Game-Server
 
 #### 客户端介绍：
 
